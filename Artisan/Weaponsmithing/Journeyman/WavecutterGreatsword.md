@@ -8,7 +8,7 @@
     <td width="40%">
       <img src="../../../Images/Wavecutter_Greatsword-1768306008811.webp" alt="Image" />
     </td>
-<td width="60%">
+<td width="60%" valign="top" align="center">
 
 |  Ingredient 3          | Qty |   |  
 |  ---------------------  |  --- | ----------------------------------------------------------------------------------------------------------------- |

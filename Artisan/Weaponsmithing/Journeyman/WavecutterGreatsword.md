@@ -1,6 +1,6 @@
 # Recipe Breakdown
 
-## 1️⃣ Wavecutter Greatsowrd — Per Craft
+## 1️⃣ Wavecutter Greatsword — Per Craft
 
 **Ingredients (per craft)**
 

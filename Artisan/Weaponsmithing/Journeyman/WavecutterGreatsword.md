@@ -4,7 +4,7 @@
 
 **Ingredients (per craft)**
 
-|Ingredient3|Qty|
+|Ingredient 3|Qty|
 |---|---|
 |Sword's Final Touches|60|
 |Copper Ingot|74|
@@ -16,7 +16,7 @@
 
 **Copper Ingot (per)**
 
-|Ingredient3|Qty|
+|Ingredient 3|Qty|
 |---|---|
 |Copper Fragments|1|
 |Copper Ore|2|
@@ -24,14 +24,14 @@
 
 **Copper Fragments (per)**
 
-|Ingredient2|Qty|
+|Ingredient 2|Qty|
 |---|---|
 |Copper Ore|1|
 |Smoldering Ash|1|
 
 **Totals for 74 Copper Ingots**
 
-|Ingredient3|Units Crafted|Qty per Unit|Total Qty|
+|Ingredient 3|Units Crafted|Qty per Unit|Total Qty|
 |---|---|---|---|
 |Copper Fragments|74|1|74|
 |Copper Ore|74|2|148|
@@ -43,14 +43,14 @@
 
 **Copper Fragments (per)**
 
-|Ingredient2|Qty|
+|Ingredient 2|Qty|
 |---|---|
 |Copper Ore|1|
 |Smoldering Ash|1|
 
 **Totals for 74 Copper Fragmentss**
 
-|Ingredient2|Units Crafted|Qty per Unit|Total Qty|
+|Ingredient 2|Units Crafted|Qty per Unit|Total Qty|
 |---|---|---|---|
 |Copper Ore|74|1|74|
 |Smoldering Ash|74|1|74|
@@ -61,7 +61,7 @@
 
 **Dried Date Palm Board (per)**
 
-|Ingredient3|Qty|
+|Ingredient 3|Qty|
 |---|---|
 |Date Palm Board|1|
 |Date Palm Wood|3|
@@ -69,7 +69,7 @@
 
 **Date Palm Board (per)**
 
-|Ingredient3|Qty|
+|Ingredient 3|Qty|
 |---|---|
 |Date Palm Timber|1|
 |Date Palm Wood|2|
@@ -77,14 +77,14 @@
 
 **Date Palm Timber (per)**
 
-|Ingredient2|Qty|
+|Ingredient 2|Qty|
 |---|---|
 |Date Palm Wood|1|
 |Sanding Powder|1|
 
 **Totals for 25 Dried Date Palm Boards**
 
-|Ingredient3|Units Crafted|Qty per Unit|Total Qty|
+|Ingredient 3|Units Crafted|Qty per Unit|Total Qty|
 |---|---|---|---|
 |Date Palm Board|25|1|25|
 |Date Palm Wood|25|3|75|
@@ -96,7 +96,7 @@
 
 **Date Palm Board (per)**
 
-|Ingredient3|Qty|
+|Ingredient 3|Qty|
 |---|---|
 |Date Palm Timber|1|
 |Date Palm Wood|2|
@@ -104,14 +104,14 @@
 
 **Date Palm Timber (per)**
 
-|Ingredient2|Qty|
+|Ingredient 2|Qty|
 |---|---|
 |Date Palm Wood|1|
 |Sanding Powder|1|
 
 **Totals for 25 Date Palm Boards**
 
-|Ingredient3|Units Crafted|Qty per Unit|Total Qty|
+|Ingredient 3|Units Crafted|Qty per Unit|Total Qty|
 |---|---|---|---|
 |Date Palm Timber|25|1|25|
 |Date Palm Wood|25|2|50|
@@ -123,14 +123,14 @@
 
 **Date Palm Timber (per)**
 
-|Ingredient2|Qty|
+|Ingredient 2|Qty|
 |---|---|
 |Date Palm Wood|1|
 |Sanding Powder|1|
 
 **Totals for 25 Date Palm Timbers**
 
-|Ingredient2|Units Crafted|Qty per Unit|Total Qty|
+|Ingredient 2|Units Crafted|Qty per Unit|Total Qty|
 |---|---|---|---|
 |Date Palm Wood|25|1|25|
 |Sanding Powder|25|1|25|
@@ -139,7 +139,7 @@
 
 ## 3️⃣ 💰 Vendor Items
 
-|Item6|Qty|
+|Item 6|Qty|
 |---|---|
 |Sword's Final Touches|60|
 |Smoldering Ash|74|
@@ -150,7 +150,7 @@
 
 ## 4️⃣ Processing & Crafting Cost Breakdown (No Tax / With 12.5% Tax)
 
-|Item / Recipe12|Qty|Base|With 12.5% Tax|
+|Item / Recipe 12|Qty|Base|With 12.5% Tax|
 |---|---|---|---|
 |💰 Sword's Final Touches|60|4 s 80 c|5 s 40 c|
 |💰 Smoldering Ash|74|5 s 92 c|6 s 66 c|
@@ -167,7 +167,7 @@
 
 ## 5️⃣ Processing & Crafting Final Total Cost
 
-|Category3|Base Cost|With 12.5% Tax|
+|Category 3|Base Cost|With 12.5% Tax|
 |---|---|---|
 |**Vendor Items**|34 s 56 c|38 s 88 c|
 |**Processing + Crafting**|5 g 34 s|6 g 75 c|

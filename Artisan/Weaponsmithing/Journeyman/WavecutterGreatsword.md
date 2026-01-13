@@ -6,13 +6,13 @@
 <table>
   <tr>
     <td width="40%">
-      <img src="Images/Wavecutter_Greatsword-1768306008811.webp" alt="Image" />
+      <img src="./Images/Wavecutter_Greatsword-1768306008811.webp" alt="Image" />
     </td>
 <td width="60%">
 
 | Ingredient 3          | Qty |                                                                                                                
 | --------------------- | --- | ----------------------------------------------------------------------------------------------------------- |
-| Sword's Final Touches | 60  | <img src="Images/WavecutterGreatsword-1768304408290-20260113124024220.webp" alt="Your image title" width="16"/> |
+| Sword's Final Touches | 60  | <img src="./Images/WavecutterGreatsword-1768304408290-20260113124024220.webp" alt="Your image title" width="16"/> |
 |  Copper Ingot         | 74  |     |
 |  Dried Date Palm Board | 25  |   |
 

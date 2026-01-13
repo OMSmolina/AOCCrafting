@@ -3,12 +3,22 @@
 ## 1️⃣ Wavecutter Greatsword — Per Craft
 
 **Ingredients (per craft)**
+<table>
+  <tr>
+    <td width="40%">
+      <img src="Images/Wavecutter_Greatsword-1768306008811.webp" alt="Image" />
+    </td>
+<td width="60%">
 
-|Ingredient 3|Qty|
-|---|---|
-|Sword's Final Touches|60|
-|Copper Ingot|74|
-|Dried Date Palm Board|25|
+| Ingredient 3          | Qty |                                                                                                                
+| --------------------- | --- | ----------------------------------------------------------------------------------------------------------- |
+| Sword's Final Touches | 60  | <img src="Images/WavecutterGreatsword-1768304408290-20260113124024220.webp" alt="Your image title" width="16"/> |
+|  Copper Ingot         | 74  |     |
+|  Dried Date Palm Board | 25  |   |
+
+</td>
+  </tr>
+</table>
 
 ## 2️⃣ Processing Breakdown
 
@@ -16,11 +26,11 @@
 
 **Copper Ingot (per)**
 
-|Ingredient 3|Qty|
-|---|---|
-|Copper Fragments|1|
-|Copper Ore|2|
-|Blackflint Flux|2|
+| Ingredient 3     | Qty |
+| ---------------- | --- |
+| Copper Fragments | 1   |
+| Copper Ore       | 2   |
+| Blackflint Flux  | 2   |
 
 **Copper Fragments (per)**
 

@@ -10,15 +10,7 @@
 |Copper Ingot|74|
 |Dried Date Palm Board|25|
 
-## 2️⃣ Total Weaponsmithing Materials (1 Crafts)
-
-|Item3|Qty|
-|---|---|
-|Sword's Final Touches|60|
-|Copper Ingot|74|
-|Dried Date Palm Board|25|
-
-## 3️⃣ Processing Breakdown
+## 2️⃣ Processing Breakdown
 
 ### 🔩 Copper Ingot → Copper Fragments → Copper Ore
 
@@ -45,6 +37,8 @@
 |Copper Ore|74|2|148|
 |Blackflint Flux|74|2|148|
 
+---
+
 ### 🔩 Copper Fragments → Copper Ore
 
 **Copper Fragments (per)**
@@ -60,6 +54,8 @@
 |---|---|---|---|
 |Copper Ore|74|1|74|
 |Smoldering Ash|74|1|74|
+
+---
 
 ### 🔩 Dried Date Palm Board → Date Palm Board → Date Palm Timber → Date Palm Wood
 
@@ -94,6 +90,8 @@
 |Date Palm Wood|25|3|75|
 |Grainlock Wax|25|3|75|
 
+---
+
 ### 🔩 Date Palm Board → Date Palm Timber → Date Palm Wood
 
 **Date Palm Board (per)**
@@ -119,6 +117,8 @@
 |Date Palm Wood|25|2|50|
 |Woodworker's Oil|25|2|50|
 
+---
+
 ### 🔩 Date Palm Timber → Date Palm Wood
 
 **Date Palm Timber (per)**
@@ -135,7 +135,9 @@
 |Date Palm Wood|25|1|25|
 |Sanding Powder|25|1|25|
 
-## 4️⃣ 💰 Vendor Items
+---
+
+## 3️⃣ 💰 Vendor Items
 
 |Item6|Qty|
 |---|---|
@@ -146,7 +148,7 @@
 |Woodworker's Oil|50|
 |Grainlock Wax|75|
 
-## 5️⃣ Processing & Crafting Cost Breakdown (No Tax / With 12.5% Tax)
+## 4️⃣ Processing & Crafting Cost Breakdown (No Tax / With 12.5% Tax)
 
 |Item / Recipe12|Qty|Base|With 12.5% Tax|
 |---|---|---|---|
@@ -161,9 +163,9 @@
 |🔩 Dried Date Palm Board|25|4 g 10 s|4 g 61 s 25 c|
 |🔩 Date Palm Board|25|19 s 25 c|21 s 66 c|
 |🔩 Date Palm Timber|25|5 s 75 c|6 s 47 c|
-|⚔️ Wavecutter Greatsowrd|1|25 s|28 s 13 c|
+|⚔️ Wavecutter Greatsword|1|25 s|28 s 13 c|
 
-## 6️⃣ Processing & Crafting Final Total Cost
+## 5️⃣ Processing & Crafting Final Total Cost
 
 |Category3|Base Cost|With 12.5% Tax|
 |---|---|---|
@@ -171,9 +173,9 @@
 |**Processing + Crafting**|5 g 34 s|6 g 75 c|
 |**Total**|5 g 68 s 56 c|6 g 39 s 63 c|
 
-## 7️⃣ Final Summary
+## 6️⃣ Final Summary
 
-- **Wavecutter Greatsowrd**
+- **Wavecutter Greatsword**
 - **Copper Ore**: **222**
 - **Date Palm Wood**: **150**
 - **Total cost (with tax)**: **6 g 39 s 63 c**
